@@ -26,3 +26,4 @@ Dziś chcielibyśmy przedstawić Wam ranking mediów społecznościowych. Jeste�
 ![Zdjęcie1](IMG/social1.jpg)
 ![Zdjęcie2](https://socialpress.pl/wp-content/themes/stylebook/timthumb.php?src=https%3A%2F%2Fsocialpress.pl%2Fwp-content%2Fuploads%2F2017%2F05%2Fshutterstock_428687383.jpg&q=90&w=795&zc=1)
 ![Zdjęcie3](https://eventis.pl/uploads/najpopularniejsze-media-spolecznosciowe.webp)
+
