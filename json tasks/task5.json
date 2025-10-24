@@ -1,6 +1,45 @@
 [
 {
-    
+    "platform":"Facebook",
+    "NumbofUsers": 3000000000,
+    "realeaseYear": 2004,
+    "owner": "Mark Zuckerberg",
+    "networth($)": [1.3, "trillion"]
+},
+{
+    "platform":"Instagram",
+    "NumbofUsers": 3000000000,
+    "realeaseYear": 2010,
+    "owner":"Mark Zuckerberg",
+    "networth($)": [70, "billion"]
+},
+{
+    "platform":"Tiktok",
+    "NumbofUsers": 1600000000,
+    "realeaseYear": 2016,
+    "owner":"Zhang Yiming",
+    "networth($)": [84, "billion"]
+},
+{
+    "platform":"X",
+    "NumbofUsers": 6100000,
+    "realeaseYear": 2006,
+    "owner":"Elon Musk",
+    "networth($)": [13, "billion"]
+},
+{
+    "platform":"Messenger",
+    "NumbofUsers":947000000,
+    "realeaseYear":2008,
+    "owner":"Mark Zuckerberg",
+    "networth($)": [1.8, "trillion"]
+},
+{
+    "platform":"Whatsapp",
+    "NumbofUsers":3000000000,
+    "realeaseYear":2009,
+    "owner":"Mark Zuckerberg",
+    "networth($)": [100, "billion"]
 }
 
 ]
