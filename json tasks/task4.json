@@ -7,13 +7,7 @@
         "Ceo": "Mark Zuckerberg"
     },
     "PublicAccess": true,
-    "TypeofPosts": [
-        "videos",
-        "photos"
-    ],
-    "Networth($)": [
-        100.1,
-        "billion"
-    ],
+    "TypeofPosts": ["videos", "photos"],
+    "Networth($)": [ 100.1, "billion"],
     "Headquarters": "Menlo Park"
 }
