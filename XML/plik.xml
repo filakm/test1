@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmlCOLLECTION>
+
+ <TikTok>
+<iloscuzytkowników wzrostmiesieczny="20000000" sredniawieku="20"  >3000000000</iloscuzytkowników>
+<Pracownicy  sredniaplaca="5000$" sredniawiekupracownika="40">87 000 </Pracownicy>
+<zalozyciel rokzaolozenia="2013" wiek="43">Zhang Yiming</zalozyciel>
+<sredniczaskorzystnia rozbieznosc="5min" rocznywzrost="20 min">120 min</sredniczaskorzystnia>
+</TikTok>
+
+<facebook>
+<iloscuzytkowników wzrostmiesieczny="100000" sredniawieku="40"  >3000000000</iloscuzytkowników>
+<Pracownicy sredniaplaca="8000$" sredniawiekupracownika="33">87 000</Pracownicy>
+<zalozyciel rokzaolozenia="2002" wiek="33">Mark Zuckerberg</zalozyciel>
+<sredniczaskorzystnia rozbieznosc="5min" rocznywzrost="2 min">10 min</sredniczaskorzystnia>
+</facebook>
+
+<youtube>
+<iloscuzytkowników wzrostmiesieczny="10000000" sredniawieku="20" >2000000000</iloscuzytkowników>
+<Pracownicy  sredniaplaca="10000$" sredniawiekupracownika="29">56000</Pracownicy>
+<zalozyciel rokzaolozenia="2013" wiek="38">Jawed Karim</zalozyciel>
+<sredniczaskorzystnia rozbieznosc="5min" rocznywzrost="16 min">120</sredniczaskorzystnia>
+</youtube>
+
+<instagram>
+<iloscuzytkowników wzrostmiesieczny="150000" sredniawieku="30" >2000000000</iloscuzytkowników>
+<Pracownicy  sredniaplaca="8000$" sredniawiekupracownika="28">14000</Pracownicy>
+<zalozyciel rokzaolozenia="2012" wiek="33">Mark Zuckerberg</zalozyciel>
+<sredniczaskorzystnia rozbieznosc="5min" rocznywzrost="40 min">180 min</sredniczaskorzystnia>
+</instagram>
+
+<mesenger>
+<iloscuzytkowników wzrostmiesieczny="200000" sredniawieku="20" >1000000000</iloscuzytkowników>
+<Pracownicy  sredniaplaca="8000$" sredniawiekupracownika="33">100000</Pracownicy>
+<zalozyciel rokzaolozenia="2011" wiek="33">Mark Zuckerberg</zalozyciel>
+<sredniczaskorzystnia rozbieznosc="5min" rocznywzrost="24 min">120 min</sredniczaskorzystnia>
+</mesenger>
+
+<whatsapp>
+<iloscuzytkowników wzrostmiesieczny="2000000" sredniawieku="50" >2000000000</iloscuzytkowników>
+<Pracownicy  sredniaplaca="7000$" sredniawiekupracownika="30">1000</Pracownicy>
+<zalozyciel rokzaolozenia="2010" wiek="4">Brian Acton</zalozyciel>
+<sredniczaskorzystnia rozbieznosc="5min" rocznywzrost="23 min">30 min</sredniczaskorzystnia>
+</whatsapp>
+
+</xmlCOLLECTION>
