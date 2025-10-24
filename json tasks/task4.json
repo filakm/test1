@@ -1,0 +1,13 @@
+{
+    "platform": "Instagram",
+    "users": 3000000000,
+    "releaseyear": 2010,
+    "owner": {
+        "Company": "Meta",
+        "Ceo": "Mark Zuckerberg"
+    },
+    "PublicAccess": true,
+    "TypeofPosts": ["videos", "photos"],
+    "Networth($)": [ 100.1, "billion"],
+    "Headquarters": "Menlo Park"
+}
