@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmlCOLLECTION>
+ <TikTok>
+<iloscuzytkowników>3000000000</iloscuzytkowników>
+<Pracownicy>87 000 </Pracownicy>
+<zalozyciel>Zhang Yiming</zalozyciel>
+<sredniczaskorzystnia>120 min</sredniczaskorzystnia>
+</TikTok>
+<facebook>
+<iloscuzytkowników>3000000000</iloscuzytkowników>
+<Pracownicy>87 000</Pracownicy>
+<zalozyciel>Mark Zuckerberg</zalozyciel>
+<sredniczaskorzystnia>10 min</sredniczaskorzystnia>
+</facebook>
+<youtube>
+<iloscuzytkowników>2000000000</iloscuzytkowników>
+<Pracownicy>56000</Pracownicy>
+<zalozyciel>Jawed Karim</zalozyciel>
+<sredniczaskorzystnia>120</sredniczaskorzystnia>
+</youtube>
+<instagram>
+<iloscuzytkowników>2000000000</iloscuzytkowników>
+<Pracownicy>14000</Pracownicy>
+<zalozyciel>Mark Zuckerberg</zalozyciel>
+<sredniczaskorzystnia>180 min</sredniczaskorzystnia>
+</instagram>
+<mesenger>
+<iloscuzytkowników>1000000000</iloscuzytkowników>
+<Pracownicy>100000</Pracownicy>
+<zalozyciel>Mark Zuckerberg</zalozyciel>
+<sredniczaskorzystnia>120 min</sredniczaskorzystnia>
+</mesenger>
+<whatsapp>
+<iloscuzytkowników>2000000000</iloscuzytkowników>
+<Pracownicy>1000</Pracownicy>
+<zalozyciel>Brian Acton</zalozyciel>
+<sredniczaskorzystnia>30 min</sredniczaskorzystnia>
+</whatsapp>
+</xmlCOLLECTION>
